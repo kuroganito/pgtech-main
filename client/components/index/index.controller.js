@@ -4,7 +4,7 @@
 
 class IndexComponent {
   constructor() {
-    $.stellar();
+
   }
 }
 

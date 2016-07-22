@@ -4,7 +4,7 @@
 
 class SliderComponent {
   constructor() {
-    $('.slider').slider({full_width: true});
+    $('.slider').slider({indicators: false,height:"100vh"});
   }
 }
 

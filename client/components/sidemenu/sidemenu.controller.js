@@ -4,7 +4,7 @@
 
 class SidemenuComponent {
   constructor() {
-    $(".button-collapse").sideNav();
+    $('.button-collapse').sideNav();
   }
 }
 
